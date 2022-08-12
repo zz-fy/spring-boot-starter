@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+cn.zfy.custom.spring.boot.autoconfigure.CustomAutoConfiguration
