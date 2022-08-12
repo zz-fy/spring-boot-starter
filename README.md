@@ -5,6 +5,6 @@
 
 可根据具体需求实现工具框架的封装，如datasource,分布式id,工具类，mq使用封装，apollo配置封装，链路追踪，feign，灰度路由，redis使用封装等。。
 
-![image-20220812113310438](C:\Users\张飞跃\AppData\Roaming\Typora\typora-user-images\image-20220812113310438.png)
+![image-20220812113310438](./asset/image-20220812113310438.png)
 
 这几个条件注解以及参数的理解概念持续更新中....
